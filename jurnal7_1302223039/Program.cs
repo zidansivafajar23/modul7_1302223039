@@ -1,7 +1,10 @@
-﻿internal class Program
+﻿using jurnal7_1302223039;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        
+        DataMahasiswa_1302223039.ReadJSON();
     }
 }

@@ -3,11 +3,21 @@
   "WorkspaceRootPath": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1302223039\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A0732E2-606C-47E1-B35F-9C6620D9E72F}|jurnal7_1302223039\\jurnal7_1302223039.csproj|c:\\kuliah\\semester 4\\p_konstruksi perangkat lunak\\minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\datamahasiswa_1302223039.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0732E2-606C-47E1-B35F-9C6620D9E72F}|jurnal7_1302223039\\jurnal7_1302223039.csproj|solutionrelative:jurnal7_1302223039\\datamahasiswa_1302223039.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092B5401-7076-49EE-A330-82015CD02964}|Solution Items{092B5401-7076-49EE-A330-82015CD02964}|C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1_1302223039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A0732E2-606C-47E1-B35F-9C6620D9E72F}|jurnal7_1302223039\\jurnal7_1302223039.csproj|c:\\kuliah\\semester 4\\p_konstruksi perangkat lunak\\minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A0732E2-606C-47E1-B35F-9C6620D9E72F}|jurnal7_1302223039\\jurnal7_1302223039.csproj|solutionrelative:jurnal7_1302223039\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A0732E2-606C-47E1-B35F-9C6620D9E72F}|jurnal7_1302223039\\jurnal7_1302223039.csproj|c:\\kuliah\\semester 4\\p_konstruksi perangkat lunak\\minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tp7_2_1302223039.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0732E2-606C-47E1-B35F-9C6620D9E72F}|jurnal7_1302223039\\jurnal7_1302223039.csproj|C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{1A0732E2-606C-47E1-B35F-9C6620D9E72F}|jurnal7_1302223039\\jurnal7_1302223039.csproj|solutionrelative:jurnal7_1302223039\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
@@ -18,11 +28,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataMahasiswa_1302223039.cs",
+              "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\DataMahasiswa_1302223039.cs",
+              "RelativeDocumentMoniker": "jurnal7_1302223039\\DataMahasiswa_1302223039.cs",
+              "ToolTip": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\DataMahasiswa_1302223039.cs",
+              "RelativeToolTip": "jurnal7_1302223039\\DataMahasiswa_1302223039.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T03:14:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tp7_2_1302223039.json",
+              "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tp7_2_1302223039.json",
+              "RelativeDocumentMoniker": "..\\tp7_2_1302223039.json",
+              "ToolTip": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\tp7_2_1302223039.json",
+              "RelativeToolTip": "..\\tp7_2_1302223039.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T03:10:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "jurnal7_1_1302223039.json",
+              "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1_1302223039.json",
+              "RelativeDocumentMoniker": "..\\jurnal7_1_1302223039.json",
+              "ToolTip": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1_1302223039.json",
+              "RelativeToolTip": "..\\jurnal7_1_1302223039.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T03:06:34.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\.gitignore",
               "RelativeDocumentMoniker": "jurnal7_1302223039\\.gitignore",
@@ -35,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\Program.cs",
               "RelativeDocumentMoniker": "jurnal7_1302223039\\Program.cs",
               "ToolTip": "C:\\Kuliah\\semester 4\\P_Konstruksi Perangkat Lunak\\Minggu 7\\jurnal7_1302223039\\jurnal7_1302223039\\Program.cs",
               "RelativeToolTip": "jurnal7_1302223039\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T02:52:58.131Z",
               "EditorCaption": ""
